@@ -6,7 +6,7 @@ function gif() {
         <>
         <div class="grid justify-items-center">
 
-        <img class="justify-self-auto" width="300px" height="300px" src="http://ajnportfolio.com/media/homegif2.gif"></img>
+        <img class="mt-5 justify-self-auto" width="300px" height="300px" src="http://ajnportfolio.com/media/homegif2.gif"></img>
         </div>
         </>
 

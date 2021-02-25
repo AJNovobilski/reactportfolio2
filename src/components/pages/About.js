@@ -1,5 +1,5 @@
 import React from "react";
-import Gif from "../gif/gif";
+import Me from "../photo/me";
 
 
 export const About = () => {
@@ -8,7 +8,7 @@ export const About = () => {
     <div>
       <h1>About</h1>
       <div>
-      <Gif></Gif>
+      <Me></Me>
     </div>
     
     </div>

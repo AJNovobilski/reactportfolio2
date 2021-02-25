@@ -27,8 +27,9 @@ const ProjectCard = (props) => {
         <div class="flex items-center space-x-2 mt-10">
     
             <p class="text-gray-500 font-semibold text-sm">
-              {props.date}
-               &middot; 
+                
+            &middot; 
+    {props.date}
             </p>
             <div>
 
