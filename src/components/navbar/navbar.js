@@ -48,7 +48,7 @@ function NavBar() {
   <NavLink exact to="/about" className="text-4xl block md:inline-block text-yellow-500 hover:text-white px-3 py-3 border-b-2 border-blue-900 md:border-none">
                 About
   </NavLink> 
-  <NavLink exact to="/contact" className="text-4xl block md:inline-block text-yellow-700 hover:text-white px-3 py-3 border-b-2 border-blue-900 md:border-none">
+  <NavLink exact to="/contact" className="text-4xl block md:inline-block text-yellow-600 hover:text-white px-3 py-3 border-b-2 border-blue-900 md:border-none">
                 Contact
   </NavLink> 
   

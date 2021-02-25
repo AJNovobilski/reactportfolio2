@@ -1,5 +1,5 @@
 import React from "react";
-import Gif from "../gif/gif";
+import Gif2 from "../gif/gif2";
 
 
 export const Projects = () => {
@@ -7,7 +7,7 @@ export const Projects = () => {
     <div>
       <h1>Projects</h1>
       <div>
-      <Gif></Gif>
+      <Gif2></Gif2>
     </div>
     
     </div>
