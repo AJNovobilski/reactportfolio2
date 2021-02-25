@@ -9,7 +9,9 @@ export const Contact = () => {
       <div>
       <Gif></Gif>
     </div>
+    <h2 class="mt-10 text-center text-3xl text-black">Andrew@zembit.com</h2>
     
     </div>
+    
   );
 };

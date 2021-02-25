@@ -1,5 +1,6 @@
 import React from "react";
 import Gif from "../gif/gif";
+import Footer from "../footer/footer"
 
 
 export const Home = () => {
@@ -15,7 +16,7 @@ export const Home = () => {
      <div class="grid grid-cols-6 gap-4">
      <div class="col-start-2 col-span-4">
 
-     <p className="mt-5 text-sm text-black text-left">Hello world, my name is Andrew Novobilski and I am a web development professional located in Mission Viejo, California. I have a passion for web design and an eye for design. I aim to create mobile first, fast, responsive websites that have real world impact. I am working to earn my full stack developer certificate from UCI which I will complete in two weeks. 
+     <p className="mt-5 text-sm text-black text-left">Hello world, my name is AJ Novobilski and I am a web development professional located in Mission Viejo, California. I have a passion for websites and an eye for graphic design. I aim to create mobile first, fast, responsive websites that have real world impact. I am working to earn my full stack developer certificate from UCI which I will complete in two weeks. 
      </p>
 
      <h2 className="mt-5 text-2xl text-black"> My Skill Set Includes </h2>
@@ -31,8 +32,11 @@ export const Home = () => {
   <li>HTML5</li>
   <li>AWS Deployment</li>
   <li>Linux</li>
+  <li>IT Support</li>
+
 
   </ul>
+
 
   </div>
   
@@ -50,6 +54,9 @@ export const Home = () => {
         
 
     </div>
+
+    <Footer></Footer>
+
 
     
 

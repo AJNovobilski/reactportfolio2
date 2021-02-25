@@ -1,6 +1,7 @@
 import React from "react";
 import Gif2 from "../gif/gif2";
 import ProjectCard from "../projectcards/projectcard"
+import Footer from "../footer/footer"
 
 
 export const Projects = () => {
@@ -85,6 +86,8 @@ export const Projects = () => {
 
     </div>
 </body>
+
+<Footer></Footer>
 
     
     </div>
