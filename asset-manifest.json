@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/reactportfolio2/static/css/main.68855f18.chunk.css",
-    "main.js": "/reactportfolio2/static/js/main.93218f64.chunk.js",
-    "main.js.map": "/reactportfolio2/static/js/main.93218f64.chunk.js.map",
+    "main.js": "/reactportfolio2/static/js/main.ca0349e5.chunk.js",
+    "main.js.map": "/reactportfolio2/static/js/main.ca0349e5.chunk.js.map",
     "runtime-main.js": "/reactportfolio2/static/js/runtime-main.d13f8c97.js",
     "runtime-main.js.map": "/reactportfolio2/static/js/runtime-main.d13f8c97.js.map",
     "static/js/2.29080089.chunk.js": "/reactportfolio2/static/js/2.29080089.chunk.js",
     "static/js/2.29080089.chunk.js.map": "/reactportfolio2/static/js/2.29080089.chunk.js.map",
     "index.html": "/reactportfolio2/index.html",
     "static/css/main.68855f18.chunk.css.map": "/reactportfolio2/static/css/main.68855f18.chunk.css.map",
-    "static/js/2.29080089.chunk.js.LICENSE.txt": "/reactportfolio2/static/js/2.29080089.chunk.js.LICENSE.txt"
+    "static/js/2.29080089.chunk.js.LICENSE.txt": "/reactportfolio2/static/js/2.29080089.chunk.js.LICENSE.txt",
+    "static/media/homegif2.1950007d.gif": "/reactportfolio2/static/media/homegif2.1950007d.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.d13f8c97.js",
     "static/js/2.29080089.chunk.js",
     "static/css/main.68855f18.chunk.css",
-    "static/js/main.93218f64.chunk.js"
+    "static/js/main.ca0349e5.chunk.js"
   ]
 }
