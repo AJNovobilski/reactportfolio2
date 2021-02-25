@@ -1,0 +1,43 @@
+.navbar {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+
+  .gradient {
+          background: linear-gradient(100deg, #3ad4ac, #2024f0, #f9a5a5);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 7s ease infinite;
+    -moz-animation: AnimationName 7s ease infinite;
+    -o-animation: AnimationName 7s ease infinite;
+    animation: AnimationName 7s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 75%}
+    50%{background-position:100% 26%}
+    100%{background-position:0% 75%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 75%}
+    50%{background-position:100% 26%}
+    100%{background-position:0% 75%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 75%}
+    50%{background-position:100% 26%}
+    100%{background-position:0% 75%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 75%}
+    50%{background-position:100% 26%}
+    100%{background-position:0% 75%}
+}
+  
+  
