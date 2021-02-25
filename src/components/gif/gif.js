@@ -1,4 +1,5 @@
 import React from "react";
+import holy from "../../assets/homegif2.gif"
 
 function gif() {
 
@@ -6,7 +7,7 @@ function gif() {
         <>
         <div class="grid justify-items-center">
 
-        <img class="mt-5 justify-self-auto" width="300px" height="300px" src="http://ajnportfolio.com/media/homegif2.gif"></img>
+        <img class="mt-5 justify-self-auto" width="300px" height="300px" src={holy}></img>
         </div>
         </>
 
